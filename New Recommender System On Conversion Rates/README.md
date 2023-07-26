@@ -24,3 +24,8 @@ To conduct this project, I utilized several Python libraries.<br>
 I also applied statistical tests such as two proportion Z-test, Shapiro-Wilk test, power analysis, and Mann-Whitney U test.
 
 ## Projects At a Glance
+![project description](https://github.com/icandra/AB_test_portfolio/blob/main/New%20Recommender%20System%20On%20Conversion%20Rates/images/2.png)
+![libraries](https://github.com/icandra/AB_test_portfolio/blob/main/New%20Recommender%20System%20On%20Conversion%20Rates/images/3.png)
+![datasets](https://github.com/icandra/AB_test_portfolio/blob/main/New%20Recommender%20System%20On%20Conversion%20Rates/images/4.png)
+![picture1](https://github.com/icandra/AB_test_portfolio/blob/main/New%20Recommender%20System%20On%20Conversion%20Rates/images/6.png)
+![picture2](https://github.com/icandra/AB_test_portfolio/blob/main/New%20Recommender%20System%20On%20Conversion%20Rates/images/15.png)
